@@ -1947,7 +1947,7 @@ Perhaps he had daughters growing up like that, “looking like ladies and
 refined” with pretensions to gentility and smartness....
 
 “The chief thing is,” Raskolnikov persisted, “to keep her out of this
-scoundrel’s hands! Why should he outrage her! It’s as clear as day what
+scoundrel’s hands! Why should he outrage her? It’s as clear as day what
 he is after; ah, the brute, he is not moving off!”
 
 Raskolnikov spoke aloud and pointed to him. The gentleman heard him,
@@ -2047,7 +2047,7 @@ youth, good-natured to the point of simplicity, though both depth and
 dignity lay concealed under that simplicity. The better of his comrades
 understood this, and all were fond of him. He was extremely intelligent,
 though he was certainly rather a simpleton at times. He was of striking
-appearance--tall, thin, blackhaired and always badly shaved. He was
+appearance--tall, thin, black-haired and always badly shaved. He was
 sometimes uproarious and was reputed to be of great physical strength.
 One night, when out in a festive company, he had with one blow laid
 a gigantic policeman on his back. There was no limit to his drinking
@@ -2967,7 +2967,7 @@ And there was the fourth storey, here was the door, here was the
 flat opposite, the empty one. The flat underneath the old woman’s was
 apparently empty also; the visiting card nailed on the door had been
 torn off--they had gone away!... He was out of breath. For one instant
-the thought floated through his mind “Shall I go back?” But he made no
+the thought floated through his mind, “Shall I go back?” But he made no
 answer and began listening at the old woman’s door, a dead silence. Then
 he listened again on the staircase, listened long and intently...
 then looked about him for the last time, pulled himself together, drew
@@ -3230,9 +3230,9 @@ quite noticeable that he was overlooking. He stood in the middle of the
 room, lost in thought. Dark agonising ideas rose in his mind--the idea
 that he was mad and that at that moment he was incapable of reasoning,
 of protecting himself, that he ought perhaps to be doing something
-utterly different from what he was now doing. “Good God!” he muttered “I
-must fly, fly,” and he rushed into the entry. But here a shock of terror
-awaited him such as he had never known before.
+utterly different from what he was now doing. “Good God!” he muttered,
+“I must fly, fly,” and he rushed into the entry. But here a shock of
+terror awaited him such as he had never known before.
 
 He stood and gazed and could not believe his eyes: the door, the outer
 door from the stairs, at which he had not long before waited and rung,
@@ -3362,7 +3362,7 @@ the hook clanks?”
 were all out, they would have locked the door from the outside with the
 key and not with the hook from inside. There, do you hear how the hook
 is clanking? To fasten the hook on the inside they must be at home,
-don’t you see. So there they are sitting inside and don’t open the
+don’t you see? So there they are sitting inside and don’t open the
 door!”
 
 “Well! And so they must be!” cried Koch, astonished. “What are they
@@ -3647,7 +3647,7 @@ He was thoroughly waked up at last by a violent knocking at his door.
 
 “Open, do, are you dead or alive? He keeps sleeping here!” shouted
 Nastasya, banging with her fist on the door. “For whole days together
-he’s snoring here like a dog! A dog he is too. Open I tell you. It’s
+he’s snoring here like a dog! A dog he is too. Open, I tell you. It’s
 past ten.”
 
 “Maybe he’s not at home,” said a man’s voice.
@@ -5085,7 +5085,7 @@ could I have found out so much except from him? He is a capital
 fellow, brother, first-rate... in his own way, of course. Now we are
 friends--see each other almost every day. I have moved into this part,
 you know. I have only just moved. I’ve been with him to Luise Ivanovna
-once or twice.... Do you remember Luise, Luise Ivanovna?
+once or twice.... Do you remember Luise, Luise Ivanovna?”
 
 “Did I say anything in delirium?”
 
@@ -6930,7 +6930,7 @@ crowded about Raskolnikov, pressing up behind him.
 “Mercy on it! it’s our Afrosinya!” a woman cried tearfully close by.
 “Mercy! save her! kind people, pull her out!”
 
-“A boat, a boat” was shouted in the crowd. But there was no need of a
+“A boat, a boat!” was shouted in the crowd. But there was no need of a
 boat; a policeman ran down the steps to the canal, threw off his great
 coat and his boots and rushed into the water. It was easy to reach her:
 she floated within a couple of yards from the steps, he caught hold of
@@ -6963,7 +6963,7 @@ was not a trace now of the energy with which he had set out “to make an
 end of it all.” Complete apathy had succeeded to it.
 
 “Well, it’s a way out of it,” he thought, walking slowly and listlessly
-along the canal bank. “Anyway I’ll make an end, for I want to.... But
+along the canal bank. “Anyway, I’ll make an end, for I want to.... But
 is it a way out? What does it matter! There’ll be the square yard of
 space--ha! But what an end! Is it really the end? Shall I tell them or
 not? Ah... damn! How tired I am! If I could find somewhere to sit or lie
@@ -9530,7 +9530,7 @@ be offended, sister, at my making only such a frivolous criticism on the
 letter, and to think that I speak of such trifling matters on purpose to
 annoy you. It is quite the contrary, an observation apropos of the style
 occurred to me that is by no means irrelevant as things stand. There
-is one expression, ‘blame yourselves’ put in very significantly and
+is one expression, ‘blame yourselves’, put in very significantly and
 plainly, and there is besides a threat that he will go away at once if I
 am present. That threat to go away is equivalent to a threat to abandon
 you both if you are disobedient, and to abandon you now after summoning
@@ -9809,7 +9809,7 @@ crush you--carrying something. Why, it is a piano they have got, I
 declare... how they push!... I am very much afraid of that young woman,
 too.”
 
-“What young woman, mother?
+“What young woman, mother?”
 
 “Why, that Sofya Semyonovna, who was there just now.”
 
@@ -12265,7 +12265,7 @@ and urgent request has been disregarded....”
 Assuming an aggrieved air, Luzhin relapsed into dignified silence.
 
 “Your request that my brother should not be present at our meeting was
-disregarded solely at my insistance,” said Dounia. “You wrote that you
+disregarded solely at my insistence,” said Dounia. “You wrote that you
 had been insulted by my brother; I think that this must be explained at
 once, and you must be reconciled. And if Rodya really has insulted you,
 then he _should_ and _will_ apologise.”
@@ -12331,14 +12331,14 @@ emphatically that I would not speak openly in your brother’s presence,
 nevertheless, I intend now to ask your honoured mother for a necessary
 explanation on a point of great importance closely affecting my dignity.
 Your son,” he turned to Pulcheria Alexandrovna, “yesterday in the
-presence of Mr. Razsudkin (or... I think that’s it? excuse me I have
-forgotten your surname,” he bowed politely to Razumihin) “insulted me by
-misrepresenting the idea I expressed to you in a private conversation,
-drinking coffee, that is, that marriage with a poor girl who has had
-experience of trouble is more advantageous from the conjugal point of
-view than with one who has lived in luxury, since it is more profitable
-for the moral character. Your son intentionally exaggerated the
-significance of my words and made them ridiculous, accusing me of
+presence of Mr. Razsudkin (or... I think that’s it? excuse me, I have
+forgotten your surname”) (he bowed politely to Razumihin), “insulted me
+by misrepresenting the idea I expressed to you in a private
+conversation, drinking coffee, that is, that marriage with a poor girl
+who has had experience of trouble is more advantageous from the conjugal
+point of view than with one who has lived in luxury, since it is more
+profitable for the moral character. Your son intentionally exaggerated
+the significance of my words and made them ridiculous, accusing me of
 malicious intentions, and, as far as I could see, relied upon your
 correspondence with him. I shall consider myself happy, Pulcheria
 Alexandrovna, if it is possible for you to convince me of an opposite
@@ -12525,7 +12525,7 @@ and had, indeed, felt genuinely indignant at such “black ingratitude.”
  And yet, when he made Dounia his offer, he was fully aware of the
 groundlessness of all the gossip. The story had been everywhere
 contradicted by Marfa Petrovna, and was by then disbelieved by all the
-townspeople, who were warm in Dounia’a defence. And he would not have
+townspeople, who were warm in Dounia’s defence. And he would not have
 denied that he knew all that at the time. Yet he still thought highly
 of his own resolution in lifting Dounia to his level and regarded it as
 something heroic. In speaking of it to Dounia, he had let out the secret
@@ -12677,7 +12677,7 @@ before anything had happened... I tell you what; I have an uncle, I must
 introduce him to you (a most accommodating and respectable old man).
 This uncle has got a capital of a thousand roubles, and he lives on his
 pension and has no need of that money. For the last two years he has
-been bothering me to borrow it from him and pay him six per cent.
+been bothering me to borrow it from him and pay him six per cent
 interest. I know what that means; he simply wants to help me. Last year
 I had no need of it, but this year I resolved to borrow it as soon as
 he arrived. Then you lend me another thousand of your three and we have
@@ -12852,8 +12852,8 @@ mechanically took hold of it.
 
 “Who is there?” a woman’s voice asked uneasily.
 
-“It’s I... come to see you,” answered Raskolnikov and he walked into the
-tiny entry.
+“It’s I... come to see you,” answered Raskolnikov, and he walked into
+the tiny entry.
 
 On a broken chair stood a candle in a battered copper candlestick.
 
@@ -13946,8 +13946,8 @@ Through a law of nature he can’t escape me if he had anywhere to go.
 Have you seen a butterfly round a candle? That’s how he will keep
 circling and circling round me. Freedom will lose its attractions. He’ll
 begin to brood, he’ll weave a tangle round himself, he’ll worry himself
-to death! What’s more he will provide me with a mathematical proof--if I
-only give him long enough interval.... And he’ll keep circling round
+to death! What’s more, he will provide me with a mathematical proof--if
+I only give him long enough interval.... And he’ll keep circling round
 me, getting nearer and nearer and then--flop! He’ll fly straight into my
 mouth and I’ll swallow him, and that will be very amusing, he-he-he! You
 don’t believe me?”
@@ -14290,7 +14290,7 @@ He took up his cap and went to the door.
 “And won’t you see my little surprise?” chuckled Porfiry, again taking
 him by the arm and stopping him at the door.
 
-He seemed to become more playful and good-humoured which maddened
+He seemed to become more playful and good-humoured, which maddened
 Raskolnikov.
 
 “What surprise?” he asked, standing still and looking at Porfiry in
@@ -15686,7 +15686,7 @@ the mother was positively offended at the invitation and had asked the
 question: “How could she let her daughter sit down beside _that young
 person_?” Sonia had a feeling that Katerina Ivanovna had already heard
 this and an insult to Sonia meant more to Katerina Ivanovna than an
-insult to herself, her children, or her father, Sonia knew that
+insult to herself, her children, or her father. Sonia knew that
 Katerina Ivanovna would not be satisfied now, “till she had shown those
 draggletails that they were both...” To make matters worse someone
 passed Sonia, from the other end of the table, a plate with two hearts
@@ -15936,7 +15936,7 @@ positively against my will, _compelled_ to entertain a suspicion--a
 cruel, but justifiable suspicion! I will add further and repeat that in
 spite of my positive conviction, I realise that I run a certain risk in
 making this accusation, but as you see, I could not let it pass. I have
-taken action and I will tell you why: solely, madam, solely, owing
+taken action and I will tell you why: solely, madam, solely owing
 to your black ingratitude! Why! I invite you for the benefit of your
 destitute relative, I present you with my donation of ten roubles and
 you, on the spot, repay me for all that with such an action. It is too
@@ -15963,7 +15963,7 @@ the wall, with his arms crossed, looking at her with glowing eyes.
 I humbly beg you meanwhile to send for the house porter,” Luzhin said
 softly and even kindly.
 
-“_Gott der Barmherzige_! I knew she was the thief,” cried Amalia
+“_Gott der Barmherzige!_ I knew she was the thief,” cried Amalia
 Ivanovna, throwing up her hands.
 
 “You knew it?” Luzhin caught her up, “then I suppose you had some reason
@@ -17172,7 +17172,7 @@ Sonia screamed.
 
 “At least it seems so. But... we don’t know what to do, you see! She
 came back--she seems to have been turned out somewhere, perhaps
-beaten.... So it seems at least,... She had run to your father’s former
+beaten.... So it seems at least.... She had run to your father’s former
 chief, she didn’t find him at home: he was dining at some other
 general’s.... Only fancy, she rushed off there, to the other general’s,
 and, imagine, she was so persistent that she managed to get the chief to
@@ -17587,7 +17587,7 @@ wife, a woman with an everlastingly scared expression, and several
 open-mouthed children with wonder-struck faces. Among these,
 Svidrigaïlov suddenly made his appearance. Raskolnikov looked at him
 with surprise, not understanding where he had come from and not having
-noticed him in the crowd. A doctor and priest wore spoken of. The
+noticed him in the crowd. A doctor and priest were spoken of. The
 official whispered to Raskolnikov that he thought it was too late now
 for the doctor, but he ordered him to be sent for. Kapernaumov ran
 himself.
@@ -17640,8 +17640,8 @@ yes!
 “In the heat of midday in the vale of Dagestan.
 
 “Ah, how I loved it! I loved that song to distraction, Polenka! Your
-father, you know, used to sing it when we were engaged.... Oh those
-days! Oh that’s the thing for us to sing! How does it go? I’ve
+father, you know, used to sing it when we were engaged.... Oh, those
+days! Oh, that’s the thing for us to sing! How does it go? I’ve
 forgotten. Remind me! How was it?”
 
 She was violently excited and tried to sit up. At last, in a horribly
@@ -18642,7 +18642,7 @@ believe in your theory already, what will you run away with? And what
 would you do in hiding? It would be hateful and difficult for you, and
 what you need more than anything in life is a definite position, an
 atmosphere to suit you. And what sort of atmosphere would you have? If
-you ran away, you’d come back to yourself. _You can’t get on without
+you ran away, you’d come back of yourself. _You can’t get on without
 us._ And if I put you in prison--say you’ve been there a month, or two,
 or three--remember my word, you’ll confess of yourself and perhaps to
 your own surprise. You won’t know an hour beforehand that you are coming
@@ -18948,7 +18948,7 @@ wasn’t intending to talk to you about anything special.”
 “What did you want me, for, then? It was you who came hanging about me.”
 
 “Why, simply as an interesting subject for observation. I liked the
-fantastic nature of your position--that’s what it was! Besides you are
+fantastic nature of your position--that’s what it was! Besides, you are
 the brother of a person who greatly interested me, and from that person
 I had in the past heard a very great deal about you, from which I
 gathered that you had a great influence over her; isn’t that enough?
@@ -20129,10 +20129,9 @@ CHAPTER VI
 
 He spent that evening till ten o’clock going from one low haunt to
 another. Katia too turned up and sang another gutter song, how a certain
+“villain and tyrant”
 
-“villain and tyrant,”
-
-“began kissing Katia.”
+    “began kissing Katia.”
 
 Svidrigaïlov treated Katia and the organ-grinder and some singers and
 the waiters and two little clerks. He was particularly drawn to these
@@ -20600,7 +20599,7 @@ their closed shutters. The cold and damp penetrated his whole body and
 he began to shiver. From time to time he came across shop signs and read
 each carefully. At last he reached the end of the wooden pavement and
 came to a big stone house. A dirty, shivering dog crossed his path with
-its tail between its legs. A man in a greatcoat lay face downwards; dead
+its tail between its legs. A man in a greatcoat lay face downwards, dead
 drunk, across the pavement. He looked at him and went on. A high tower
 stood up on the left. “Bah!” he shouted, “here is a place. Why should
 it be Petrovsky? It will be in the presence of an official witness
@@ -20678,7 +20677,7 @@ Alexandrovna was speechless with joy and surprise; then she took him by
 the hand and drew him into the room.
 
 “Here you are!” she began, faltering with joy. “Don’t be angry with
-me, Rodya, for welcoming you so foolishly with tears: I am laughing not
+me, Rodya, for welcoming you so foolishly with tears: I am laughing, not
 crying. Did you think I was crying? No, I am delighted, but I’ve got
 into such a stupid habit of shedding tears. I’ve been like that ever
 since your father’s death. I cry for anything. Sit down, dear boy, you
